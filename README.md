@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jaldise86-ship-it/jaldise86-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./profile-logo.png" width="180" alt="jaldise86-ship-it profile logo">
 
-Here are some ideas to get you started:
+jaldise86-ship-it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Build. Learn. Ship. Contribute.
+
+I’m a developer focused on building useful software, learning systems deeply, and turning ideas into things that actually ship.
+
+GitHub
+
+</div>
+
+What I'm working on
+
+🛠️ Building practical software and automation
+
+🧠 Going deeper into Linux, systems, and developer tooling
+
+🌱 Learning through real projects and open-source contribution
+
+🚀 Shipping consistently instead of waiting for perfect
+
+Current direction
+
+CODE        → build real things
+LEARN       → understand how they work
+SHIP        → turn ideas into usable software
+CONTRIBUTE  → give back to the ecosystem
+REPEAT      → get better every cycle
+
+Tech
+
+TypeScript · JavaScript · Python · Go · Linux · Git · Docker
+
+Philosophy
+
+Make it work. Understand why. Make it better. Ship it.
+
+<div align="center">
