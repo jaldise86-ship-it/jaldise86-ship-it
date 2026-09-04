@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-logo.png" width="180" alt="jaldise86-ship-it profile logo">
+<img src="./profile-logo 2.png" width="180" alt="jaldise86-ship-it profile logo">
 
 jaldise86-ship-it
 
